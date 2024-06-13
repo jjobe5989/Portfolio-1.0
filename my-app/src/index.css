@@ -17,15 +17,13 @@ video {
 
 .content  {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 50%;
+  height: 75%;
   top: 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* color: black;
-  text-shadow: rgb(255, 255, 255) 2px 2px; */
 }
 
 .overlay {
@@ -36,4 +34,17 @@ video {
   height: 100vh;
   background-color: #000000cc;
   /* background-color: rgba(0,0,0,0.5); */
+}
+
+.Photo {
+  position: absolute;
+  width: 0%;
+  height: 60%;
+  padding-left: 1000px;
+  border-radius:0%;
+}
+
+img {
+  border-radius: 9%;
+  height: 400px;
 }

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jjobe5989/Portfolio-1.0/issues"
   },
-  "homepage": "https://github.com/jjobe5989/Portfolio-1.0#readme"
+  "homepage": "https://github.com/jjobe5989/Portfolio-1.0#readme",
+  "dependencies": {
+    "react-type-animation": "^3.2.0"
+  }
 }
